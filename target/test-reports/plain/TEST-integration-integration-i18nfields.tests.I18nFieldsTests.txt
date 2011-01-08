@@ -1,0 +1,22 @@
+Testsuite: i18nfields.tests.I18nFieldsTests
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 1.264 sec
+------------- Standard Output ---------------
+--Output from testGetter--
+--Output from testSetter--
+--Output from testWithLocale--
+--Output from testDirectAccess--
+--Output from testServiceWithLocale--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testGetter--
+--Output from testSetter--
+--Output from testWithLocale--
+--Output from testDirectAccess--
+--Output from testServiceWithLocale--
+------------- ---------------- ---------------
+
+Testcase: testGetter took 1.213 sec
+Testcase: testSetter took 0.008 sec
+Testcase: testWithLocale took 0.013 sec
+Testcase: testDirectAccess took 0.007 sec
+Testcase: testServiceWithLocale took 0.021 sec

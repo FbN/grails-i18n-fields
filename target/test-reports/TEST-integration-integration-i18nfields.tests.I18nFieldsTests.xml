@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="localhost" name="i18nfields.tests.I18nFieldsTests" tests="5" time="1.264" timestamp="2011-01-08T14:49:36">
+  <properties />
+  <testcase classname="i18nfields.tests.I18nFieldsTests" name="testGetter" time="1.213" />
+  <testcase classname="i18nfields.tests.I18nFieldsTests" name="testSetter" time="0.0080" />
+  <testcase classname="i18nfields.tests.I18nFieldsTests" name="testWithLocale" time="0.013" />
+  <testcase classname="i18nfields.tests.I18nFieldsTests" name="testDirectAccess" time="0.0070" />
+  <testcase classname="i18nfields.tests.I18nFieldsTests" name="testServiceWithLocale" time="0.021" />
+  <system-out><![CDATA[--Output from testGetter--
+--Output from testSetter--
+--Output from testWithLocale--
+--Output from testDirectAccess--
+--Output from testServiceWithLocale--
+]]></system-out>
+  <system-err><![CDATA[--Output from testGetter--
+--Output from testSetter--
+--Output from testWithLocale--
+--Output from testDirectAccess--
+--Output from testServiceWithLocale--
+]]></system-err>
+</testsuite>

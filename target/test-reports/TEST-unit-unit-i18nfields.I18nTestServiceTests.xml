@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="localhost" name="i18nfields.I18nTestServiceTests" tests="1" time="0.135" timestamp="2011-01-08T14:49:30">
+  <properties />
+  <testcase classname="i18nfields.I18nTestServiceTests" name="testSomething" time="0.125" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>

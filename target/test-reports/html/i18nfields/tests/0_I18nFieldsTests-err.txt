@@ -1,0 +1,6 @@
+--Output from testGetter--
+--Output from testSetter--
+--Output from testWithLocale--
+--Output from testDirectAccess--
+--Output from testServiceWithLocale--
+

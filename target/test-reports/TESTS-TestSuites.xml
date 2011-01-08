@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="localhost" id="0" name="I18nFieldsTests" package="i18nfields.tests" tests="5" time="1.264" timestamp="2011-01-08T14:49:36">
+      <properties />
+
+      <testcase classname="i18nfields.tests.I18nFieldsTests" name="testGetter" time="1.213" />
+
+      <testcase classname="i18nfields.tests.I18nFieldsTests" name="testSetter" time="0.0080" />
+
+      <testcase classname="i18nfields.tests.I18nFieldsTests" name="testWithLocale" time="0.013" />
+
+      <testcase classname="i18nfields.tests.I18nFieldsTests" name="testDirectAccess" time="0.0070" />
+
+      <testcase classname="i18nfields.tests.I18nFieldsTests" name="testServiceWithLocale" time="0.021" />
+
+      <system-out><![CDATA[--Output from testGetter--
+--Output from testSetter--
+--Output from testWithLocale--
+--Output from testDirectAccess--
+--Output from testServiceWithLocale--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testGetter--
+--Output from testSetter--
+--Output from testWithLocale--
+--Output from testDirectAccess--
+--Output from testServiceWithLocale--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="localhost" id="1" name="I18nTestServiceTests" package="i18nfields" tests="1" time="0.135" timestamp="2011-01-08T14:49:30">
+      <properties />
+
+      <testcase classname="i18nfields.I18nTestServiceTests" name="testSomething" time="0.125" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
